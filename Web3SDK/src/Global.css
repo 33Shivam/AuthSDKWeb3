@@ -1,0 +1,17 @@
+@import '@radix-ui/colors/iris-dark.css';
+@import '@radix-ui/colors/iris.css';
+
+/* 
+:root {
+    --background-1: var(--iris-1);
+    --background-2: var(--iris-2);
+    --background-3: var(--iris-9);
+
+    --primary-text: var(--iris-12);
+    --secondary-text: var(--iris-11);
+
+    --ui-element: var(--iris-3);
+    --ui-element-hovered: var(--iris-4);
+    --ui-element-active: var(--iris-5);
+  
+  } */
